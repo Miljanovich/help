@@ -1,0 +1,2 @@
+# help
+FiveM Help Command
